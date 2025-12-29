@@ -20,6 +20,7 @@ A Convolutional Neural Network (CNN) based system to recognize handwritten digit
 ---
 
 ## How to Run
+## Note: it is necessary to train your model with requirements.txt to work
 ```bash
 pip install -r requirements.txt
 python train.py
